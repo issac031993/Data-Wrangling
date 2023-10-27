@@ -1,0 +1,129 @@
+Offences,Year,No_of_crime
+Homicide and related offences,2015,225
+Homicide and related offences,2016,196
+Homicide and related offences,2017,239
+Homicide and related offences,2018,230
+Homicide and related offences,2019,207
+Homicide and related offences,2020,335
+Homicide and related offences,2021,245
+Homicide and related offences,2022,227
+Acts intended to cause injury,2015,24226
+Acts intended to cause injury,2016,24886
+Acts intended to cause injury,2017,24518
+Acts intended to cause injury,2018,23675
+Acts intended to cause injury,2019,23525
+Acts intended to cause injury,2020,25704
+Acts intended to cause injury,2021,20534
+Acts intended to cause injury,2022,22611
+Sexual assault and related offences,2015,6016
+Sexual assault and related offences,2016,4929
+Sexual assault and related offences,2017,5789
+Sexual assault and related offences,2018,5132
+Sexual assault and related offences,2019,4827
+Sexual assault and related offences,2020,5910
+Sexual assault and related offences,2021,5708
+Sexual assault and related offences,2022,6802
+Dangerous or negligent acts endangering persons,2015,11284
+Dangerous or negligent acts endangering persons,2016,12036
+Dangerous or negligent acts endangering persons,2017,12648
+Dangerous or negligent acts endangering persons,2018,11903
+Dangerous or negligent acts endangering persons,2019,10742
+Dangerous or negligent acts endangering persons,2020,11101
+Dangerous or negligent acts endangering persons,2021,8791
+Dangerous or negligent acts endangering persons,2022,9954
+"Abduction, harassment and other offences against the person",2015,5160
+"Abduction, harassment and other offences against the person",2016,5564
+"Abduction, harassment and other offences against the person",2017,5216
+"Abduction, harassment and other offences against the person",2018,5447
+"Abduction, harassment and other offences against the person",2019,5681
+"Abduction, harassment and other offences against the person",2020,6462
+"Abduction, harassment and other offences against the person",2021,5846
+"Abduction, harassment and other offences against the person",2022,6484
+"Robbery, extortion and related offences",2015,1351
+"Robbery, extortion and related offences",2016,1717
+"Robbery, extortion and related offences",2017,1795
+"Robbery, extortion and related offences",2018,1743
+"Robbery, extortion and related offences",2019,1401
+"Robbery, extortion and related offences",2020,1327
+"Robbery, extortion and related offences",2021,1163
+"Robbery, extortion and related offences",2022,1262
+"Unlawful entry with intent/burglary, break and enter",2015,7388
+"Unlawful entry with intent/burglary, break and enter",2016,7448
+"Unlawful entry with intent/burglary, break and enter",2017,6644
+"Unlawful entry with intent/burglary, break and enter",2018,5915
+"Unlawful entry with intent/burglary, break and enter",2019,6052
+"Unlawful entry with intent/burglary, break and enter",2020,5893
+"Unlawful entry with intent/burglary, break and enter",2021,5004
+"Unlawful entry with intent/burglary, break and enter",2022,5725
+Theft and related offences,2015,23982
+Theft and related offences,2016,24774
+Theft and related offences,2017,24701
+Theft and related offences,2018,24183
+Theft and related offences,2019,24846
+Theft and related offences,2020,24918
+Theft and related offences,2021,20226
+Theft and related offences,2022,26060
+"Fraud, deception and related offences",2015,15467
+"Fraud, deception and related offences",2016,15614
+"Fraud, deception and related offences",2017,14254
+"Fraud, deception and related offences",2018,12507
+"Fraud, deception and related offences",2019,10840
+"Fraud, deception and related offences",2020,11442
+"Fraud, deception and related offences",2021,8620
+"Fraud, deception and related offences",2022,8024
+Illicit drug offences,2015,14957
+Illicit drug offences,2016,15366
+Illicit drug offences,2017,16202
+Illicit drug offences,2018,14690
+Illicit drug offences,2019,14979
+Illicit drug offences,2020,14737
+Illicit drug offences,2021,12087
+Illicit drug offences,2022,12788
+Prohibited and regulated weapons and explosives offences,2015,4642
+Prohibited and regulated weapons and explosives offences,2016,5342
+Prohibited and regulated weapons and explosives offences,2017,5481
+Prohibited and regulated weapons and explosives offences,2018,5455
+Prohibited and regulated weapons and explosives offences,2019,5872
+Prohibited and regulated weapons and explosives offences,2020,6591
+Prohibited and regulated weapons and explosives offences,2021,5566
+Prohibited and regulated weapons and explosives offences,2022,6457
+Property damage and environmental pollution,2015,9188
+Property damage and environmental pollution,2016,9196
+Property damage and environmental pollution,2017,8795
+Property damage and environmental pollution,2018,8301
+Property damage and environmental pollution,2019,8140
+Property damage and environmental pollution,2020,8407
+Property damage and environmental pollution,2021,6378
+Property damage and environmental pollution,2022,7515
+Public order offences,2015,8052
+Public order offences,2016,7953
+Public order offences,2017,7649
+Public order offences,2018,7084
+Public order offences,2019,6539
+Public order offences,2020,6963
+Public order offences,2021,5949
+Public order offences,2022,7028
+Traffic and vehicle regulatory offences,2015,42227
+Traffic and vehicle regulatory offences,2016,43251
+Traffic and vehicle regulatory offences,2017,41015
+Traffic and vehicle regulatory offences,2018,39339
+Traffic and vehicle regulatory offences,2019,35491
+Traffic and vehicle regulatory offences,2020,39095
+Traffic and vehicle regulatory offences,2021,31304
+Traffic and vehicle regulatory offences,2022,38146
+"Offences against justice procedures, government security and government operations",2015,41993
+"Offences against justice procedures, government security and government operations",2016,43503
+"Offences against justice procedures, government security and government operations",2017,42942
+"Offences against justice procedures, government security and government operations",2018,43990
+"Offences against justice procedures, government security and government operations",2019,42790
+"Offences against justice procedures, government security and government operations",2020,40872
+"Offences against justice procedures, government security and government operations",2021,29113
+"Offences against justice procedures, government security and government operations",2022,31784
+Miscellaneous offences,2015,4028
+Miscellaneous offences,2016,4147
+Miscellaneous offences,2017,3894
+Miscellaneous offences,2018,3275
+Miscellaneous offences,2019,2625
+Miscellaneous offences,2020,2398
+Miscellaneous offences,2021,1700
+Miscellaneous offences,2022,1759

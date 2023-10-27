@@ -1,0 +1,343 @@
+Year,Region,Population
+1996,Northland Region,140700
+1996,Auckland Region,1115800
+1996,Waikato Region,358800
+1996,Bay of Plenty Region,230600
+1996,Gisborne Region,47200
+1996,Hawke's Bay Region,146600
+1996,Taranaki Region,109000
+1996,Manawatu-Wanganui Region,234500
+1996,Wellington Region,426900
+1996,Tasman Region,38800
+1996,Nelson Region,41200
+1996,Marlborough Region,39200
+1996,West Coast Region,33200
+1996,Canterbury Region,480400
+1996,Otago Region,189300
+1996,Southland Region,99000
+1997,Northland Region,142100
+1997,Auckland Region,1146700
+1997,Waikato Region,362700
+1997,Bay of Plenty Region,235400
+1997,Gisborne Region,46900
+1997,Hawke's Bay Region,147400
+1997,Taranaki Region,108600
+1997,Manawatu-Wanganui Region,233800
+1997,Wellington Region,431200
+1997,Tasman Region,39400
+1997,Nelson Region,41700
+1997,Marlborough Region,39600
+1997,West Coast Region,32900
+1997,Canterbury Region,485400
+1997,Otago Region,189300
+1997,Southland Region,97400
+1998,Northland Region,143300
+1998,Auckland Region,1169000
+1998,Waikato Region,365600
+1998,Bay of Plenty Region,239600
+1998,Gisborne Region,46600
+1998,Hawke's Bay Region,147600
+1998,Taranaki Region,108100
+1998,Manawatu-Wanganui Region,232500
+1998,Wellington Region,433900
+1998,Tasman Region,40200
+1998,Nelson Region,42000
+1998,Marlborough Region,40000
+1998,West Coast Region,32500
+1998,Canterbury Region,488800
+1998,Otago Region,188900
+1998,Southland Region,95500
+1999,Northland Region,143800
+1999,Auckland Region,1184800
+1999,Waikato Region,366900
+1999,Bay of Plenty Region,242500
+1999,Gisborne Region,46400
+1999,Hawke's Bay Region,147300
+1999,Taranaki Region,107300
+1999,Manawatu-Wanganui Region,231200
+1999,Wellington Region,435800
+1999,Tasman Region,40800
+1999,Nelson Region,42300
+1999,Marlborough Region,40300
+1999,West Coast Region,31900
+1999,Canterbury Region,491100
+1999,Otago Region,188200
+1999,Southland Region,93700
+2000,Northland Region,144400
+2000,Auckland Region,1201500
+2000,Waikato Region,368100
+2000,Bay of Plenty Region,245200
+2000,Gisborne Region,46100
+2000,Hawke's Bay Region,147300
+2000,Taranaki Region,106500
+2000,Manawatu-Wanganui Region,229900
+2000,Wellington Region,437500
+2000,Tasman Region,41600
+2000,Nelson Region,42600
+2000,Marlborough Region,40500
+2000,West Coast Region,31400
+2000,Canterbury Region,493600
+2000,Otago Region,188100
+2000,Southland Region,92700
+2001,Northland Region,144400
+2001,Auckland Region,1218300
+2001,Waikato Region,368400
+2001,Bay of Plenty Region,246900
+2001,Gisborne Region,45500
+2001,Hawke's Bay Region,147300
+2001,Taranaki Region,105700
+2001,Manawatu-Wanganui Region,227500
+2001,Wellington Region,440200
+2001,Tasman Region,42400
+2001,Nelson Region,42900
+2001,Marlborough Region,40700
+2001,West Coast Region,31100
+2001,Canterbury Region,496700
+2001,Otago Region,188300
+2001,Southland Region,93300
+2002,Northland Region,146000
+2002,Auckland Region,1255800
+2002,Waikato Region,373400
+2002,Bay of Plenty Region,250700
+2002,Gisborne Region,45500
+2002,Hawke's Bay Region,148500
+2002,Taranaki Region,105900
+2002,Manawatu-Wanganui Region,227800
+2002,Wellington Region,445800
+2002,Tasman Region,43200
+2002,Nelson Region,43100
+2002,Marlborough Region,41200
+2002,West Coast Region,31100
+2002,Canterbury Region,505100
+2002,Otago Region,191000
+2002,Southland Region,93500
+2003,Northland Region,147900
+2003,Taranaki Region,106600
+2003,Manawatu-Wanganui Region,228700
+2003,Wellington Region,452300
+2003,Tasman Region,44100
+2003,Nelson Region,43600
+2003,Marlborough Region,41800
+2003,West Coast Region,31400
+2003,Canterbury Region,515500
+2003,Otago Region,193500
+2003,Southland Region,94100
+2004,Northland Region,149500
+2004,Waikato Region,384500
+2004,Gisborne Region,45800
+2004,Taranaki Region,106800
+2004,Wellington Region,457800
+2004,Nelson Region,44000
+2004,Marlborough Region,42500
+2004,West Coast Region,31500
+2004,Canterbury Region,524800
+2004,Otago Region,195900
+2004,Southland Region,94100
+2005,Northland Region,151000
+2005,Waikato Region,388700
+2005,Bay of Plenty Region,262200
+2005,Hawke's Bay Region,151200
+2005,Taranaki Region,106800
+2005,Wellington Region,461600
+2005,Tasman Region,45500
+2005,Marlborough Region,43000
+2005,West Coast Region,31800
+2005,Otago Region,197900
+2005,Southland Region,93700
+2006,Northland Region,152700
+2006,Waikato Region,393200
+2006,Bay of Plenty Region,265300
+2006,Gisborne Region,46000
+2006,Taranaki Region,107300
+2006,Manawatu-Wanganui Region,229400
+2006,Wellington Region,466300
+2006,Nelson Region,44300
+2006,Marlborough Region,43600
+2006,West Coast Region,32100
+2006,Otago Region,199800
+2006,Southland Region,93200
+2007,Northland Region,154700
+2007,Bay of Plenty Region,267900
+2007,Gisborne Region,46000
+2007,Hawke's Bay Region,152900
+2007,Manawatu-Wanganui Region,228700
+2007,Wellington Region,469300
+2007,Tasman Region,46200
+2007,Nelson Region,44700
+2007,West Coast Region,32300
+2007,Canterbury Region,547400
+2007,Otago Region,201000
+2007,Southland Region,93100
+2008,Waikato Region,401600
+2008,Bay of Plenty Region,270200
+2008,Gisborne Region,46000
+2008,Hawke's Bay Region,153500
+2008,Wellington Region,471800
+2008,Tasman Region,46500
+2008,Nelson Region,45200
+2008,Marlborough Region,44200
+2008,West Coast Region,32400
+2008,Otago Region,202100
+2008,Southland Region,93300
+2009,Northland Region,158200
+2009,Waikato Region,406600
+2009,Bay of Plenty Region,272700
+2009,Hawke's Bay Region,154500
+2009,Taranaki Region,109300
+2009,Manawatu-Wanganui Region,229300
+2009,Tasman Region,46900
+2009,Nelson Region,45800
+2009,West Coast Region,32700
+2009,Canterbury Region,560600
+2009,Otago Region,203300
+2010,Northland Region,160600
+2010,Waikato Region,412400
+2010,Bay of Plenty Region,275700
+2010,Gisborne Region,46700
+2010,Hawke's Bay Region,156300
+2010,Taranaki Region,110700
+2010,Wellington Region,479400
+2010,Nelson Region,46500
+2010,Marlborough Region,44600
+2010,West Coast Region,32800
+2010,Canterbury Region,567700
+2010,Otago Region,204600
+2011,Northland Region,162500
+2011,Bay of Plenty Region,278200
+2011,Gisborne Region,46800
+2011,Hawke's Bay Region,157300
+2011,Taranaki Region,111800
+2011,Manawatu-Wanganui Region,231300
+2011,Wellington Region,483400
+2011,Tasman Region,48200
+2011,West Coast Region,33100
+2011,Canterbury Region,559300
+2011,Otago Region,206600
+2011,Southland Region,95700
+2012,Northland Region,163500
+2012,Waikato Region,421500
+2012,Bay of Plenty Region,278800
+2012,Taranaki Region,112700
+2012,Manawatu-Wanganui Region,231200
+2012,Wellington Region,485100
+2012,Tasman Region,48600
+2012,Nelson Region,48200
+2012,West Coast Region,33100
+2012,Canterbury Region,556000
+2012,Southland Region,95900
+2013,Northland Region,164700
+2013,Waikato Region,424600
+2013,Bay of Plenty Region,279700
+2013,Gisborne Region,47000
+2013,Hawke's Bay Region,158000
+2013,Manawatu-Wanganui Region,231200
+2013,Wellington Region,486700
+2013,Nelson Region,48700
+2013,Marlborough Region,44700
+2013,Canterbury Region,562900
+2013,Otago Region,208800
+2013,Southland Region,96000
+2014,Northland Region,168200
+2014,Bay of Plenty Region,286100
+2014,Gisborne Region,47500
+2014,Hawke's Bay Region,160800
+2014,Taranaki Region,115000
+2014,Manawatu-Wanganui Region,234200
+2014,Tasman Region,49700
+2014,Nelson Region,49600
+2014,Marlborough Region,45400
+2014,West Coast Region,32900
+2014,Southland Region,96800
+2015,Northland Region,172100
+2015,Waikato Region,442100
+2015,Bay of Plenty Region,293200
+2015,Gisborne Region,48100
+2015,Taranaki Region,116600
+2015,Manawatu-Wanganui Region,237400
+2015,Wellington Region,501800
+2015,Tasman Region,50700
+2015,Marlborough Region,46200
+2015,West Coast Region,32800
+2015,Canterbury Region,585600
+2015,Southland Region,97700
+2016,Northland Region,176400
+2016,Waikato Region,452800
+2016,Gisborne Region,48800
+2016,Hawke's Bay Region,166900
+2016,Taranaki Region,118500
+2016,Manawatu-Wanganui Region,241100
+2016,Tasman Region,51900
+2016,Nelson Region,51400
+2016,Marlborough Region,47100
+2016,Canterbury Region,601900
+2016,Otago Region,223100
+2017,Northland Region,181200
+2017,Waikato Region,465000
+2017,Bay of Plenty Region,311500
+2017,Gisborne Region,49200
+2017,Hawke's Bay Region,169700
+2017,Taranaki Region,120000
+2017,Wellington Region,518300
+2017,Tasman Region,53000
+2017,Nelson Region,52000
+2017,West Coast Region,32700
+2017,Canterbury Region,614300
+2017,Southland Region,99900
+2018,Waikato Region,475600
+2018,Bay of Plenty Region,320800
+2018,Gisborne Region,49500
+2018,Hawke's Bay Region,172400
+2018,Taranaki Region,121200
+2018,Manawatu-Wanganui Region,247500
+2018,Wellington Region,525900
+2018,Tasman Region,54000
+2018,Nelson Region,52700
+2018,West Coast Region,32400
+2018,Canterbury Region,622800
+2018,Southland Region,100500
+2019,Bay of Plenty Region,328200
+2019,Gisborne Region,50200
+2019,Hawke's Bay Region,174900
+2019,Taranaki Region,123100
+2019,Manawatu-Wanganui Region,250600
+2019,Wellington Region,532600
+2019,Tasman Region,54900
+2019,Nelson Region,53400
+2019,Marlborough Region,49300
+2019,West Coast Region,32500
+2019,Canterbury Region,631700
+2019,Otago Region,239400
+2020,Northland Region,194600
+2020,Hawke's Bay Region,180000
+2020,Taranaki Region,125200
+2020,Manawatu-Wanganui Region,254600
+2020,Wellington Region,542100
+2020,Tasman Region,57300
+2020,Nelson Region,54900
+2020,Marlborough Region,51300
+2020,West Coast Region,32800
+2020,Canterbury Region,644000
+2020,Otago Region,245000
+2020,Southland Region,102800
+2021,Northland Region,198900
+2021,Waikato Region,508400
+2021,Bay of Plenty Region,344000
+2021,Wellington Region,543700
+2021,Tasman Region,58100
+2021,Nelson Region,54700
+2021,Marlborough Region,51600
+2021,West Coast Region,32900
+2021,Canterbury Region,650200
+2021,Otago Region,244600
+2021,Southland Region,102500
+2022,Northland Region,201500
+2022,Waikato Region,513800
+2022,Bay of Plenty Region,347700
+2022,Gisborne Region,52100
+2022,Taranaki Region,127300
+2022,Manawatu-Wanganui Region,258200
+2022,Tasman Region,58700
+2022,West Coast Region,32700
+2022,Canterbury Region,655000
+2022,Otago Region,246000
+2022,Southland Region,102400
